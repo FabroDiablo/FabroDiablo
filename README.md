@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FabroDiablo
+- 👋 Hi, I’m @Fabro
 - 👀 I’m interested in AWS infra
 - 🌱 I’m currently learning AWS and Python
 - 💞️ I’m looking to collaborate in the development cloud.
